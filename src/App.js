@@ -1,6 +1,7 @@
 import Banner from "./components/Banner";
 import Experts from "./components/Experts";
 import Header from "./components/Header";
+import NewsLatter from "./components/NewsLatter";
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <Header />
       <Banner />
       <Experts />
+      <NewsLatter />
     </>
   )
 }
