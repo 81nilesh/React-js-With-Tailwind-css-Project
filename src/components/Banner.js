@@ -16,6 +16,7 @@ const Banner = () => {
                         className='pl-3'
                         strings={['Web Development', 'Digital Marketing', 'Ethical Hacking']}
                         typeSpeed={100}
+                        backSpeed={50}
                         loop={true}
                     />
                 </div>
